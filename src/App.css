@@ -1,11 +1,7 @@
 * {
   box-sizing: border-box;
-  all: unset;
 }
 
-.unstyled{
-  all: unset;
-}
 .App {
   text-align: center;
 }
